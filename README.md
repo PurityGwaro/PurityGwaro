@@ -3,12 +3,13 @@
 <p align="left"><img src="https://user-images.githubusercontent.com/47056954/172793799-165cb433-28ad-4891-8c11-a16c999c7b32.jpg" width="80">
   
 ### Hi, I'm Purity Gwaro
-I am a Sotfware Developer. I love Technology, Creativity, and Innovation, interested in building solutions to solve real user problems. 
+I am a Software Developer. I love Technology, Creativity, and Innovation, interested in building solutions to solve real user problems. 
 
 ### Experience
 
-1+ Year JavaScript, Typescript <br>
-1+ Year React, Node, Express <br>
+2+ Year JavaScript, <br>
+2+ Year React, Node, Express <br>
+1+ Typescript <br>
 1+ Year GraphQL, MongoDB, Mongoose <br>
 
 
