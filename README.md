@@ -7,10 +7,10 @@ I am a Software Developer. I love Technology, Creativity, and Innovation, intere
 
 ### Experience
 
-2+ Year JavaScript, <br>
-2+ Year React, Node, Express <br>
-1+ Typescript <br>
-1+ Year GraphQL, MongoDB, Mongoose <br>
+3+ Year JavaScript, <br>
+3+ Year React, Node, Express <br>
+2+ Typescript <br>
+2+ Year GraphQL, MongoDB, Mongoose <br>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
